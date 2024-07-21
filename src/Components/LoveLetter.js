@@ -35,9 +35,7 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         My Dear Bangram 🖤,<br />
-        I have never thought that i fall for you , Neku teluso ledho nvu anta naku chala istam shalini🖤
-        Na prati roju ninnu chustu ne smile chustu bratikastunna  ...🖤Nijamga nvu anta yanta istamoo telusu papa .....🖤 
-        I LOVE U SHALSSS...🖤
+        I Love My Mom
         <br />
         @Lohith
       </div>
