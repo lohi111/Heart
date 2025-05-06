@@ -34,7 +34,7 @@ const LoveLetter = () => {
       <div className="flap"></div>
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
-        My Dear Bangram 🖤 ,
+        My Dear Chinnu 🖤 ,
         You know nvu naku crush ani ! But crush is strating thing or step for love ! nvu anta pranam , nvu lekapotha chachipoth ani cheppanu gani me parents taruvatha ninnu 
         valla kanna annanu kani vallu preminchinatu premista ! nvu ok anu chalu , life kotha ga vuntundhi , nvu ok annagana simhachalam
           velali , ninnnu baga chusukovali , nenu oka manchi job tecchukovali , intlo oppinchi pelli chasukovali , pilallu 
