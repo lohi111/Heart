@@ -35,7 +35,13 @@ const LoveLetter = () => {
       <div className="body"></div>
       <div className={`letter ${isFullSize ? 'fullSize' : ''}`}>
         My Dear Bangram 🖤,<br />
-        I Love My Mom
+        You know nvu naku crush ani ! But crush is strating thing or step for love ! Ippudhu love anta mataladam manasata 
+          nenu emi chyalenu . nvu anta pranam , nvu lekapotha chachipoth ani cheppanu gani ninnu life long nee hand vadalakunda 
+            chusukunta raaa! naku interest ledhu neku ani but yakkado chinna hope ! One nvu ok chepta me parents taruvatha ninnu inthala
+        valla kanna annanu kani valla preminchinatu premista ! nvu ok anu chalu , life kotha ga vuntundhi , nvu ok annagana simhachalam
+          temple ki velali , ninnnu baga chusukovali , nenu oka manchi job tecchukovali , intlo oppinchi pelli chasukovali , pilallu 
+            illu antuu,,,life long premistu ninnu chustu brathikayali , na dream idi , na dream ni full chyu bangram . 
+              DISCLIMAR: Please mataladam manayaku !
         <br />
         @Lohith
       </div>
